@@ -1,6 +1,7 @@
 ### Hello World! 🙋🏻‍♂️
 
-- 🔭 I’m currently working on <a href="https://picascade.ml">Picascade</a> and ___Project Fountain___
+- 🔭 I’m currently working on ___Project Fountain___
+- <a href="https://picascade.ml">Picascade</a> temporarily stopped updating
 
 <!--
 - Desktop Apps Developing: <br><img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Electron_Software_Framework_Logo.svg" width="40px" height="40px"/>
