@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/master_creeper_" target="blank"><img src="https://img.shields.io/twitter/follow/master_creeper_?logo=twitter&style=for-the-badge" alt="master_creeper_" /></a> </p>
 
-- 🔭 I’m currently working on [WebMusicPlayer](https://github.com/MCTVR/WebMusicPlayer)
+- 🔭 I’m currently working on [WebMusicPlayer](https://github.com/MCTVR/WebMusicPlayer) <!--[MinimalStart](https://github.com/MCTVR/MinimalStart)-->
 
 - 🌱 I’m currently learning **Rust, Swift, SwiftUI**
 
