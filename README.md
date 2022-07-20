@@ -1,7 +1,7 @@
 # 💫 About Me :
-🔭 I’m currently working on [WebMusicPlayer](https://github.com/MCTVR/WebMusicPlayer) & [MinimalStart](https://github.com/MCTVR/MinimalStart)
+🔭 I’m currently working on <!--[WebMusicPlayer](https://github.com/MCTVR/WebMusicPlayer) & [MinimalStart](https://github.com/MCTVR/MinimalStart)--> *Z*
 
-🌱 I’m currently learning Rust, SwiftUI
+🌱 I’m currently learning Rust
 
 ## 🌐 Socials
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Master_Creeper_) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/MasterCreeperMCTVR) 
