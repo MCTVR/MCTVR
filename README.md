@@ -1,5 +1,5 @@
 # 💫 About Me :
-🔭 I’m currently working on <!--[WebMusicPlayer](https://github.com/MCTVR/WebMusicPlayer) & [MinimalStart](https://github.com/MCTVR/MinimalStart)--> *Z*
+🔭 I’m currently working on <!--[WebMusicPlayer](https://github.com/MCTVR/WebMusicPlayer)-->[MinimalStart](https://github.com/MCTVR/MinimalStart)
 
 🌱 I’m currently learning Rust
 
