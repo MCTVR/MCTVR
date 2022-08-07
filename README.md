@@ -1,7 +1,7 @@
 # 💫 About Me :
 🔭 I’m currently working on <!--[WebMusicPlayer](https://github.com/MCTVR/WebMusicPlayer)-->[MinimalStart](https://github.com/MCTVR/MinimalStart) & *A*
 
-🌱 I’m currently learning ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+🌱 I’m currently learning &nbsp; ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 
 📩 Coding Ideas & App Requests 👉 [mctvr@picascademail.ml](mailto:mctvr@picascademail.ml)
 
