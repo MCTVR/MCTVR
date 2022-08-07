@@ -1,14 +1,15 @@
-# 💫 About Me :
+# 💫 About Me
 🔭 I’m currently working on <!--[WebMusicPlayer](https://github.com/MCTVR/WebMusicPlayer)-->[MinimalStart](https://github.com/MCTVR/MinimalStart) & *A*
 
 🌱 I’m currently learning **Rust**
 
 📩 Coding Ideas & App Requests 👉 [mctvr@picascademail.ml](mailto:mctvr@picascademail.ml)
 
-# 📊 GitHub Stats :
+# 📊 GitHub Stats
 ![](https://github-readme-stats-mctvr.vercel.app/api/?username=MCTVR&count_private=true&layout=compact&theme=github_dark&hide_border=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MCTVR&theme=tokyonight_duo&hide_border=true)<br/>
 ![](https://github-readme-stats-mctvr.vercel.app/api/top-langs/?username=MCTVR&count_private=true&layout=compact&theme=github_dark&hide_border=true)
+
 
 # 🙋🏻‍♂️ Socials
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Master_Creeper_)
@@ -72,7 +73,5 @@
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
----
-[![](https://visitcount.itsvg.in/api?id=MCTVR&icon=0&color=0)](https://visitcount.itsvg.in)
+<img src="https://random-memer.herokuapp.com/" width="512px"/>
