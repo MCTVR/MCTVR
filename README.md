@@ -5,6 +5,11 @@
 
 📩 Coding Ideas & App Requests 👉 [mctvr@picascademail.ml](mailto:mctvr@picascademail.ml)
 
+# 📊 GitHub Stats :
+![](https://github-readme-stats-mctvr.vercel.app/api/?username=MCTVR&count_private=true&layout=compact&theme=highcontrast)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=MCTVR&theme=tokyo_night&hide_border=true)<br/>
+![](https://github-readme-stats-mctvr.vercel.app/api/top-langs/?username=MCTVR&count_private=true&layout=compact&theme=highcontrast)
+
 # 🙋🏻‍♂️ Socials
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Master_Creeper_)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/c/MasterCreeperMCTVR)
@@ -67,12 +72,6 @@
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 
-# 📊 GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=MCTVR&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=MCTVR&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MCTVR&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-### 😂 Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
