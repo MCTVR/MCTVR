@@ -6,9 +6,9 @@
 📩 Coding Ideas & App Requests 👉 [mctvr@picascademail.ml](mailto:mctvr@picascademail.ml)
 
 # 📊 GitHub Stats :
-![](https://github-readme-stats-mctvr.vercel.app/api/?username=MCTVR&count_private=true&layout=compact&theme=highcontrast)<br/>
+![](https://github-readme-stats-mctvr.vercel.app/api/?username=MCTVR&count_private=true&layout=compact&theme=github_dark&hide_border=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MCTVR&theme=tokyonight_duo&hide_border=true)<br/>
-![](https://github-readme-stats-mctvr.vercel.app/api/top-langs/?username=MCTVR&count_private=true&layout=compact&theme=highcontrast)
+![](https://github-readme-stats-mctvr.vercel.app/api/top-langs/?username=MCTVR&count_private=true&layout=compact&theme=github_dark&hide_border=true)
 
 # 🙋🏻‍♂️ Socials
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Master_Creeper_)
