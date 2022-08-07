@@ -7,7 +7,7 @@
 
 # 📊 GitHub Stats :
 ![](https://github-readme-stats-mctvr.vercel.app/api/?username=MCTVR&count_private=true&layout=compact&theme=highcontrast)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=MCTVR&theme=tokyo_night&hide_border=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=MCTVR&theme=tokyonight_duo&hide_border=true)<br/>
 ![](https://github-readme-stats-mctvr.vercel.app/api/top-langs/?username=MCTVR&count_private=true&layout=compact&theme=highcontrast)
 
 # 🙋🏻‍♂️ Socials
