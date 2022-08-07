@@ -1,7 +1,9 @@
 # 💫 About Me :
 🔭 I’m currently working on <!--[WebMusicPlayer](https://github.com/MCTVR/WebMusicPlayer)-->[MinimalStart](https://github.com/MCTVR/MinimalStart) & *A*
 
-🌱 I’m currently learning Rust
+🌱 I’m currently learning ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+
+📩 Coding Ideas & App Requests 👉 [mctvr@picascademail.ml](mailto:mctvr@picascademail.ml)
 
 # 🙋🏻‍♂️ Socials
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Master_Creeper_)
