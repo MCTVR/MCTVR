@@ -17,6 +17,7 @@
 
 ##  📱 💻 🖥 Apple App Development
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
+<img height="28px" src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png" />
 
 ## 👨🏻‍💻 Web Development
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
