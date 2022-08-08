@@ -3,7 +3,7 @@
 
 🌱 I’m currently learning **Rust**
 
-📩 Coding Ideas & App Requests 👉 [mctvr@picascademail.ml](mailto:mctvr@picascademail.ml)
+📩 Coding Ideas & App Requests 👉 [Instagram DM @hello_world_mctvr](https://www.instagram.com/hello_world_mctvr/?hl=en)
 
 # 📊 GitHub Stats
 ![](https://github-readme-stats-mctvr.vercel.app/api/?username=MCTVR&count_private=true&layout=compact&theme=github_dark&hide_border=true)<br/>
