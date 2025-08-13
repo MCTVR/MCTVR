@@ -1,19 +1,12 @@
 # 💫 About Me
-🔭 I’m currently working on <!--[WebMusicPlayer](https://github.com/MCTVR/WebMusicPlayer)-->[MinimalStart](https://github.com/MCTVR/MinimalStart) & *A*
 
 🌱 I’m currently learning **Rust**
 
-📩 Coding Ideas & App Requests 👉 [Instagram DM @hello_world_mctvr](https://www.instagram.com/hello_world_mctvr/?hl=en)
 
 # 📊 GitHub Stats
 ![](https://github-readme-stats-mctvr.vercel.app/api/?username=MCTVR&count_private=true&layout=compact&theme=github_dark&hide_border=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MCTVR&theme=tokyonight_duo&hide_border=true)<br/>
 ![](https://github-readme-stats-mctvr.vercel.app/api/top-langs/?username=MCTVR&count_private=true&layout=compact&theme=github_dark&hide_border=true)
-
-
-# 🙋🏻‍♂️ Socials
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Master_Creeper_)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/c/MasterCreeperMCTVR)
 
 ##  📱 💻 🖥 Apple App Development
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
